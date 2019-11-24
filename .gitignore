@@ -1,6 +1,8 @@
 *
 !*/
 !/.gitignore
+!/README.md
 !/ppi/*.py
 !/test/*.py
 !/setup.py
+!/examples/*.py
